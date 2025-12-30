@@ -30,7 +30,7 @@ lib/
    
    Create `.env.local`:
    ```bash
-   NEXT_PUBLIC_API_URL=http://localhost:3000/api
+   NEXT_PUBLIC_API_URL=https://paste-bin-api.onrender.com/api
    ```
 
 3. **Run development server**
